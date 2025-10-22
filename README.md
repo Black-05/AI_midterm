@@ -23,6 +23,9 @@
 ![image](https://github.com/Black-05/AI_midterm/blob/main/7.1.png)  
 
 然後輸入並執行執行以下命令：  
-![image](https://github.com/Black-05/AI_midterm/blob/main/8.png)  
+![image](https://github.com/Black-05/AI_midterm/blob/main/7.2.png)    
 
+輸入ls指令，若drive資料夾已列出則說明連線成功  
+
+![image](https://github.com/Black-05/AI_midterm/blob/main/8.png)  
 
