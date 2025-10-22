@@ -20,10 +20,10 @@
 ![image](https://github.com/Black-05/AI_midterm/blob/main/6.png)
 
 所以我們用了最新版本的掛載雲端方式,如下圖  
-![image](https://github.com/Black-05/AI_midterm/blob/main/7.1.png)  
+![image](https://github.com/Black-05/AI_midterm/blob/main/7.3.png)  
 
 然後輸入並執行執行以下命令：  
-![image](https://github.com/Black-05/AI_midterm/blob/main/7.2.png)    
+![image](https://github.com/Black-05/AI_midterm/blob/main/7.4.png)    
 
 輸入ls指令，若drive資料夾已列出則說明連線成功  
 
@@ -69,7 +69,7 @@
 ．查看CPU資訊  
 !cat /proc/cpuinfo  
 
-![image](https://github.com/Black-05/AI_midterm/blob/main/18.png)   
+![image](https://github.com/Black-05/AI_midterm/blob/main/18.1.png)   
 
 ．訓練自己的模型  
 – 未完待續  
