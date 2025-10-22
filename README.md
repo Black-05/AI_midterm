@@ -27,5 +27,50 @@
 
 輸入ls指令，若drive資料夾已列出則說明連線成功  
 
-![image](https://github.com/Black-05/AI_midterm/blob/main/8.1.png)  
+![image](https://github.com/Black-05/AI_midterm/blob/main/8.1.png)    
+
+4.檢視GPU、CPU狀況  
+查看GPU是否在colab中  
+![image](https://github.com/Black-05/AI_midterm/blob/main/9.png)  
+
+如果結果為空，則無法使用GPU，如果結果為/device:GPU:0  
+使用!/opt/bin/nvidia-smi查看顯存狀況
+![image](https://github.com/Black-05/AI_midterm/blob/main/10.png)  
+
+查看顯示卡記憶體使用上限  
+![image](https://github.com/Black-05/AI_midterm/blob/main/11.png) 
+
+5.clolab筆記本的使用  
+
+．install  
+![image](https://github.com/Black-05/AI_midterm/blob/main/12.png)  
+
+．uninstall   
+![image](https://github.com/Black-05/AI_midterm/blob/main/13.png) 
+
+．改變目錄  
+![image](https://github.com/Black-05/AI_midterm/blob/main/14.png)  
+
+．git clone  
+!git clone https://github.com/wxs/keras-mnist-tutorial.git  
+
+![image](https://github.com/Black-05/AI_midterm/blob/main/15.png)  
+
+．下載數據  
+!wget https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/datasets/Titanic.csv -P drive/app  
+
+![image](https://github.com/Black-05/AI_midterm/blob/main/16.png)    
+
+．查看記憶體資訊  
+!cat /proc/meminfo  
+
+![image](https://github.com/Black-05/AI_midterm/blob/main/17.png)   
+
+．查看CPU資訊  
+!cat /proc/cpuinfo  
+
+![image](https://github.com/Black-05/AI_midterm/blob/main/18.png)   
+
+．訓練自己的模型  
+– 未完待續  
 
