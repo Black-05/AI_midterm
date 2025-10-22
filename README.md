@@ -11,3 +11,6 @@
 
 3.連接Google drive  
 首先在儲存格中輸入並執行以下命令  
+
+![image](https://github.com/Black-05/AI_midterm/blob/main/4.jpg)
+會出現2次校驗,詳細資訊
