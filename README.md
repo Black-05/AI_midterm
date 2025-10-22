@@ -15,3 +15,8 @@
 ![image](https://github.com/Black-05/AI_midterm/blob/main/4.jpg)
 會出現2次校驗,詳細資訊
 ![image](https://github.com/Black-05/AI_midterm/blob/main/5.png)
+
+會發現上面的程式碼的授權網站無法進入,因為版本過舊
+![image](https://github.com/Black-05/AI_midterm/blob/main/6.png)
+
+所以我們用了最新版本的掛載雲端方式,如下圖
