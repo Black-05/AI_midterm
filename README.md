@@ -14,3 +14,4 @@
 
 ![image](https://github.com/Black-05/AI_midterm/blob/main/4.jpg)
 會出現2次校驗,詳細資訊
+![image](https://github.com/Black-05/AI_midterm/blob/main/5.png)
