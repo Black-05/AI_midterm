@@ -71,6 +71,7 @@
 
 ![image](https://github.com/Black-05/AI_midterm/blob/main/18.1.png)   
 
-．訓練自己的模型  
+6.訓練自己的模型
+-未完待續
 
 
