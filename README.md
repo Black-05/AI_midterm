@@ -1,4 +1,4 @@
-# 如何使用Google Colab免費算力訓練自己的模型_google colab算力
+# 如何使用Google Colab免費算力訓練自己的模型_google colab算力 
 1.登入GoogleDriverhttps://drive.google.com/drive/my-drive  
 2.安裝Colaboratory外掛程式,並新建Colaborator,如下圖  
 右鍵我的雲端硬碟—>選擇更多—>選擇關聯更多應用程式—>搜尋Colaborator插件並安裝。  
